@@ -1,0 +1,4 @@
+src/*.o
+venv/
+docs/build/
+src/zeitdb
